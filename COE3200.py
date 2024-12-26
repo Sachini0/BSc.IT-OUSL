@@ -1,1 +1,1 @@
-print("BSc.IT-OUSC-COE")
+print("hello.py")
